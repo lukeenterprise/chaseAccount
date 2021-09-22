@@ -515,3 +515,4 @@ $client->setLogger($log);
 
 $response = $client->getServiceStatus();
 ```
+UnitTests/coverage.txt
